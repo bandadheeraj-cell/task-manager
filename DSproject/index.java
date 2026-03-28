@@ -1,6 +1,6 @@
 package DSproject;
 
-public class Main {
+public class index {
 
     public static void main(String[] args) {
 
